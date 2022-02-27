@@ -24,9 +24,14 @@ The most difficult part was to put pygame and the camera tracking together: We s
 Another challenge was for the pop-up message to pop up, even though the Pygame screen or camera were minimized or not in the front. We solved that when we found a new library, ctypes, which had a feature that allowed it to move to the front of the screen.
 
 ## Accomplishments that we're proud of
+We were three strangers that teamed up and created a working computer application demo. In the beginning, we brainstormed different ideas and came up with an APP that helps children and adults keep a healthy distance from their screens. Then, we split tasks according to what we are good at. Ridwan is good at making videos and voicing, so he is responsible for the video making and documentary of our project. Nuria is good with GUIs, so she is responsible for making the user interface of our APP. I have experience with machine vision, so I am responsible for implementing face detection and distance measurement algorithms. By working together, we learned more about collaboration and accomplished something that we could not have done by ourselves.
 
 ## What we learned
+Teamwork helps to generate better ideas. Because everybody is working on what they are good at and focusing more on their part of the project, work is more efficient. Also, we learned that if we believe we can make something and try, we can succeed even if it is very hard.
 
 ## What's next for GoodEyes
+With more time and some investments, we can develop GoodEyes as professional standard computer software. We can also develop Andriod and IOS versions so more people can use GoodEyes to protect their eyes. More compelling functions can be developed, like parenting notification, parent lock, distance calibration. To save battery power, the camera will be programmed to take photos every period of time. The screen use behavior log will be more detailed, reflecting the user's daily screen use. 
+
+We have to research how to run the software in the background on different devices. Our software may encounter problems running in the background of mobile devices because they have harsher security limitations. We can study how existing APPs run in the background of phones. Another big issue is camera access. No one wants their camera to always be watching them, we need to convince the user their camera is only used for detecting distance of their face, and no personal data will be collected for any use.
 
 owners: Núria, Lambo, Radwin
