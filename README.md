@@ -1,1 +1,3 @@
-# EyeDistanceDetect
+# GoodEyes
+
+owners: Núria 
